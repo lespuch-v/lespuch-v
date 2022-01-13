@@ -10,12 +10,7 @@
 </ul>
 <li>⚡ Fun fact: I love to 3D Graphics - Blender 🐵</li>
 </ul>
-<style>
-  .image-container{
-    padding: 50px;
-    
-    }
-</style>
+
 
 ### Languages and Tools:
 <div class="image-container" style="display:inline;">
