@@ -17,6 +17,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css icon" width="25px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="js icon" width="30px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" alt="js icon" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react icon" width="30px">
+    
+    
+    
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lespuch-v&layout=compact)](https://github.com/lespuch-v/github-readme-stats)
