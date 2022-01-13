@@ -26,7 +26,7 @@
     <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git icon" width="35px">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub icon" width="35px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" alt="Linux icon" width="25px">
-    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack icon" width="25px">
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack icon" width="35px">
     
     
     
