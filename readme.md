@@ -22,7 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript icon" width="35px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="python icon" width="35px">
     <img src="https://img.stackshare.io/service/5883/preview.png" alt="threeJS icon" width="35px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" alt="nodejs icon" width="35px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" alt="nodejs icon" width="45px">
     
     
     
