@@ -1,4 +1,4 @@
-<h2>Hi, I'm lespuch-v <a href="www.google.com">My Site</a> 👋</h2>
+<h2>Hi, I'm lespuch-v  👋</h2>
 </br>
 <ul>
     <li>📒 I’m currently learning front end development 🖥️</li>
@@ -10,7 +10,7 @@
 </ul>
 <li>⚡ Fun fact: I love to 3D Graphics - Blender 🐵</li>
 </ul>
-
+<a href="www.google.com">My Site</a>
 
 ### Languages and Tools:
 <div class="image-container" style="display:inline;">
