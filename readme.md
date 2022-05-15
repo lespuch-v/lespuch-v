@@ -6,7 +6,7 @@
 <ul>
     <li>Contribute more to Open Source projects</li>
     <li>Finish 100 Algorithm Challenge</li>
-    <li>Build portfolio page</li>
+    <li>Build portfolio page in Angular</li>
     <li>Build 50 Angular Projects
 </ul>
 <li>⚡ Fun fact: I love to 3D Graphics - Blender 🐵</li>
