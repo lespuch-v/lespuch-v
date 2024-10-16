@@ -1,8 +1,8 @@
-<h2>Hi, I'm lespuch-v <a href="https://lespuch.com/">My Site</a> 👋</h2>
+<h2>Hi, I'm lespuch-v 👋</h2>
 </br>
 <ul>
-    <li>📒 I’m currently learning front end development 🖥️</li>
-    <li>🥅 2022 Goals:</li>
+    <li>📒 I’m currently working as a front end development 🖥️</li>
+    <li>🥅 2024 Goals:</li>
 <ul>
     <li>Contribute more to Open Source projects</li>
     <li>Finish 100 Algorithm Challenge</li>
